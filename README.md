@@ -107,3 +107,44 @@ Random Forest achieved highest accuracy (~85%) and strong ROC AUC scores for mul
 
 ## 📁 Project Structure
 
+├── Maternal Health Risk Prediction.ipynb # Main notebook with code & analysis
+├── Maternal Health Risk Data Set.csv # Dataset used for training and evaluation
+├── model.pkl # Serialized Random Forest model
+├── xgBoost.json # Serialized XGBoost model
+├── requirements.txt # Python dependencies
+└── README.md # This file
+
+
+---
+
+## 🔮 Future Enhancements
+
+- Deploy model with a web app interface (e.g., Flask, Streamlit)  
+- Add real-time prediction API for healthcare providers  
+- Expand dataset with more health parameters  
+- Experiment with deep learning models for better accuracy
+
+---
+
+## 🤝 Acknowledgements
+
+- Dataset by Andrew Mvd on Kaggle  
+- Python ML ecosystem: scikit-learn, xgboost, imblearn  
+- Open source community contributors
+
+---
+
+## 📬 Contact
+
+**Gorap Kumar**  
+- Email: [gorapkumar11@gmail.com](mailto:gorapkumar11@gmail.com)  
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+⭐ If you found this project useful, please give it a star!
+
+---
+
+*Thank you for visiting!*
+
